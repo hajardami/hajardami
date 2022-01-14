@@ -3,12 +3,10 @@
 Here are some ideas to get you started:
 ## 🙋‍♂️ About Me
 
-I'm a software engineer at Rabat at ENSIAS (National School of Computer Science and System Analysis).
+I'm a software engineering student  at ENSIAS (National School of Computer Science and System Analysis).
 My interests are:  
            **Competitive programming,
            Web & Mobile devloppement,
-           Cloud Computing,
-           Computer Vision and
            Machine learning**
 
 
