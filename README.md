@@ -4,9 +4,7 @@
 
 I'm a software engineering student  at ENSIAS (National School of Computer Science and System Analysis).My interests are:  
            **Competitive programming,
-           Web & Mobile devloppement,
-           Cloud Computing,
-           Computer Vision and
+           Web & Mobile devloppement and
            Machine learning**
 
 ## 💞️ I’m looking to collaborate on any project I could get experience from   
