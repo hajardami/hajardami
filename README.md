@@ -4,8 +4,8 @@
 
 I'm a software engineering student  at ENSIAS (National School of Computer Science and System Analysis).
  My interests are:  
- -Competitive programming
- - Web & Mobile devloppement
+-Competitive programming
+- Web & Mobile devloppement
 -Machine learning
 
 
