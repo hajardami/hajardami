@@ -33,10 +33,11 @@ My interests are:
 <br/>
 <br/>
 
-## Connect with me:
+### Contact me 💬
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hajar-dami-680a5b1a0/)
+
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/hajar-dami-680a5b1a0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
