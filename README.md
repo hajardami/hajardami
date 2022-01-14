@@ -6,11 +6,11 @@ I'm a software engineering student  at ENSIAS (National School of Computer Scien
 
 
 My interests are:  
- -**Competitive programming**
+ -Competitive programming
  
-- **Web & Mobile devloppement**
-- 
--**Machine learning**
+- Web & Mobile devloppement**
+
+-Machine learning
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on any project I could get experience from   
 	   
