@@ -7,9 +7,6 @@ I'm a software engineering student  at ENSIAS (National School of Computer Scien
            Web & Mobile devloppement and
            Machine learning**
 
-## 💞️ I’m looking to collaborate on any project I could get experience from   
-	   
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
